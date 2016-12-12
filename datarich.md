@@ -1,7 +1,7 @@
 데이터로 풍성한 사회과학의 미래 보장하기
 -----------------------------------
 
-['원문']<http://gking.harvard.edu/files/datarich.pdf>
+['원문'](http://gking.harvard.edu/files/datarich.pdf)
 
 Gary King
 
